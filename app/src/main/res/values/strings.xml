@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QCrux Wall</string>
+    <string name="interest1">Doubts</string>
+    <string name="interest2">Science &amp; \n Technology</string>
+    <string name="interest3">Art &amp; \nDesign</string>
+    <string name="interest4">Web &amp; \nApp Dev.</string>
+    <string name="interest5">Achievement</string>
+    <string name="interest6">Failure</string>
+    <string name="interest7">Self\nImprovement</string>
+    <string name="interest8">UPSC</string>
+
+</resources>
