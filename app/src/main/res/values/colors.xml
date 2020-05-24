@@ -6,4 +6,6 @@
     <color name="colorIntro">#242424</color>
     <color name="colorBtn">#ffffff</color>
     <color name="white">#ffffff</color>
+    <color name="colorHeading">#262626</color>
+    <color name="colorDescription">#505050</color>
 </resources>
