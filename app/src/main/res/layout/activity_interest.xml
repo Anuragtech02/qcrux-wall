@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <!--Search Bar-->
     <EditText
         android:id="@+id/editText"
         android:layout_width="250dp"
@@ -20,6 +21,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!--Cancel Button-->
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
@@ -34,6 +36,7 @@
         app:layout_constraintStart_toEndOf="@+id/editText"
         app:layout_constraintTop_toTopOf="@+id/editText" />
 
+    <!--Tabs Interest and People-->
     <TabHost
         android:id="@+id/tabHost"
         android:layout_width="match_parent"
@@ -69,6 +72,8 @@
                     <ScrollView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
+                        android:fitsSystemWindows="true"
+                        android:fillViewport="true"
                         android:layout_marginTop="10dp"
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintStart_toStartOf="parent"
@@ -82,7 +87,6 @@
                             android:clipToPadding="false"
                             android:columnCount="2"
                             android:columnOrderPreserved="false"
-                            android:padding="5dp"
                             android:rowCount="4">
 
                             <androidx.cardview.widget.CardView
@@ -436,6 +440,7 @@
         </LinearLayout>
     </TabHost>
 
+    <!--Bottom Bar-->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="60dp"
