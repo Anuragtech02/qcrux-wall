@@ -40,7 +40,7 @@
         app:srcCompat="@mipmap/goal" />
 
     <ScrollView
-        android:layout_width="400dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:clipChildren="false"
@@ -60,7 +60,7 @@
             android:padding="20dp">
 
             <androidx.cardview.widget.CardView
-                android:layout_width="350dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:clipChildren="false"
                 android:clipToPadding="false"
@@ -68,7 +68,6 @@
                 android:dividerHeight="0.0px"
                 android:elevation="10dp"
                 app:cardCornerRadius="10dp"
-                app:cardElevation="20dp"
                 app:cardPreventCornerOverlap="false">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
@@ -107,7 +106,7 @@
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/statePSC"
-                android:layout_width="350dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:clipChildren="false"
@@ -116,7 +115,6 @@
                 android:dividerHeight="0.0px"
                 android:elevation="10dp"
                 app:cardCornerRadius="10dp"
-                app:cardElevation="20dp"
                 app:cardPreventCornerOverlap="false">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
@@ -155,7 +153,7 @@
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/bankExam"
-                android:layout_width="350dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:clipChildren="false"
@@ -164,7 +162,6 @@
                 android:dividerHeight="0.0px"
                 android:elevation="10dp"
                 app:cardCornerRadius="10dp"
-                app:cardElevation="20dp"
                 app:cardPreventCornerOverlap="false">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
@@ -203,7 +200,7 @@
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/gate"
-                android:layout_width="350dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:clipChildren="false"
@@ -212,7 +209,6 @@
                 android:dividerHeight="0.0px"
                 android:elevation="10dp"
                 app:cardCornerRadius="10dp"
-                app:cardElevation="20dp"
                 app:cardPreventCornerOverlap="false">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
@@ -251,7 +247,7 @@
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/management"
-                android:layout_width="350dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:clipChildren="false"
@@ -260,7 +256,6 @@
                 android:dividerHeight="0.0px"
                 android:elevation="10dp"
                 app:cardCornerRadius="10dp"
-                app:cardElevation="20dp"
                 app:cardPreventCornerOverlap="false">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
@@ -299,7 +294,7 @@
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/eng"
-                android:layout_width="350dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:clipChildren="false"
@@ -308,7 +303,6 @@
                 android:dividerHeight="0.0px"
                 android:elevation="10dp"
                 app:cardCornerRadius="10dp"
-                app:cardElevation="20dp"
                 app:cardPreventCornerOverlap="false">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
@@ -347,7 +341,7 @@
 
             <androidx.cardview.widget.CardView
                 android:id="@+id/other"
-                android:layout_width="350dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:layout_marginBottom="25dp"
@@ -357,7 +351,6 @@
                 android:dividerHeight="0.0px"
                 android:elevation="10dp"
                 app:cardCornerRadius="10dp"
-                app:cardElevation="20dp"
                 app:cardPreventCornerOverlap="false">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
