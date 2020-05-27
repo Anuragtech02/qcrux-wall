@@ -9,7 +9,6 @@
     <string name="interest7">Self\nImprovement</string>
     <string name="interest8">UPSC</string>
     <string name="headingPost">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
-    <string name="descriptionPost">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.
-</string>
-
+    <string name="descriptionPost">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s.</string>
+    <string name="inviteDescription">You have 500 contacts who are not on QCrux. Invite them to join, refer and earn 50 QCrux points.</string>
 </resources>
