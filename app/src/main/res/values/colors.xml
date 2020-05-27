@@ -9,4 +9,5 @@
     <color name="colorHeading">#262626</color>
     <color name="colorDescription">#505050</color>
     <color name="colorGreen">#35D40E</color>
+    <color name="middleGrey">#EFEFEF</color>
 </resources>
