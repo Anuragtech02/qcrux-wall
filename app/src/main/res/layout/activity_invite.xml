@@ -117,10 +117,12 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:isScrollContainer="true"
                 android:clipChildren="false"
                 android:clipToPadding="false"
                 android:orientation="vertical"
-                android:padding="10dp">
+                android:paddingHorizontal="10dp"
+                android:paddingBottom="250dp">
 
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
@@ -506,6 +508,84 @@
                     </androidx.constraintlayout.widget.ConstraintLayout>
 
                 </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:clipChildren="false"
+                    android:clipToPadding="false"
+                    android:divider="@android:color/transparent"
+                    android:dividerHeight="0.0px"
+                    android:layout_marginTop="10dp"
+                    app:cardCornerRadius="10dp"
+                    android:elevation="10dp"
+                    app:cardPreventCornerOverlap="false">
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="10dp">
+
+                        <ImageView
+                            android:id="@+id/dp5"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:src="@mipmap/dp"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            app:layout_constraintBottom_toBottomOf="parent"/>
+
+                        <TextView
+                            android:id="@+id/personName5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Another Person"
+                            android:textSize="18sp"
+                            android:layout_marginStart="10dp"
+                            android:fontFamily="@font/open_sans_bold"
+                            android:textColor="@color/colorHeading"
+                            app:layout_constraintTop_toTopOf="@id/dp5"
+                            app:layout_constraintBottom_toTopOf="@id/personLocation5"
+                            app:layout_constraintStart_toEndOf="@id/dp5"/>
+
+                        <TextView
+                            android:id="@+id/personLocation5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Indore, India"
+                            android:textSize="18sp"
+                            android:layout_marginStart="10dp"
+                            android:fontFamily="@font/open_sans_light"
+                            android:textColor="@color/colorHeading"
+                            app:layout_constraintBottom_toTopOf="@id/personGoal5"
+                            app:layout_constraintTop_toBottomOf="@id/personName5"
+                            app:layout_constraintStart_toEndOf="@id/dp5"/>
+
+                        <TextView
+                            android:id="@+id/personGoal5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="UPSC"
+                            android:textSize="18sp"
+                            android:layout_marginStart="10dp"
+                            android:fontFamily="@font/open_sans_bold"
+                            android:textColor="@color/colorHeading"
+                            app:layout_constraintTop_toBottomOf="@id/personLocation5"
+                            app:layout_constraintBottom_toBottomOf="@id/dp5"
+                            app:layout_constraintStart_toEndOf="@id/dp5"/>
+
+                        <RadioButton
+                            android:id="@+id/radioButton5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintTop_toTopOf="@id/dp5"
+                            app:layout_constraintBottom_toBottomOf="@id/dp5"/>
+
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+                </androidx.cardview.widget.CardView>
+
 
             </LinearLayout>
         </ScrollView>
