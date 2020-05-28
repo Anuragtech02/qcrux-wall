@@ -10,4 +10,6 @@
     <color name="colorDescription">#505050</color>
     <color name="colorGreen">#35D40E</color>
     <color name="middleGrey">#EFEFEF</color>
+    <color name="colorGradientStart">#F66B4C</color>
+    <color name="colorGradientEnd">#F6547C</color>
 </resources>

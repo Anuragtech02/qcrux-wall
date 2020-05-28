@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <!--Top action bar-->
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -20,28 +18,38 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <ImageView
-            android:id="@+id/imageViewBack"
+            android:id="@+id/imageView11"
             android:layout_width="30dp"
             android:layout_height="30dp"
-            android:src="@mipmap/back"
-            android:layout_marginStart="15dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/search"
+            app:srcCompat="@mipmap/group" />
 
-        <TextView
+        <EditText
+            android:id="@+id/search"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="UPSC"
-            android:textSize="20sp"
-            android:layout_marginStart="20dp"
-            android:textColor="@color/colorHeading"
-            android:fontFamily="@font/open_sans"
-            app:layout_constraintTop_toTopOf="@id/imageViewBack"
-            app:layout_constraintBottom_toBottomOf="@id/imageViewBack"
-            app:layout_constraintStart_toEndOf="@id/imageViewBack"/>
-
-
+            android:inputType="textPersonName"
+            android:hint="SEARCH"
+            android:minEms="10"
+            android:maxEms="12"
+            android:padding="8dp"
+            android:background="@drawable/search_bar"
+            app:layout_constraintStart_toEndOf="@id/imageView11"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/imageViewChat"
+            app:layout_constraintTop_toTopOf="parent" />
+        <ImageView
+            android:id="@+id/imageViewChat"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@id/search"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:srcCompat="@mipmap/chat" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <!--Post-->
@@ -451,4 +459,5 @@
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
