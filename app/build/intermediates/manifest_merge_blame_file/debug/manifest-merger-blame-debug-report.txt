@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->C:\Users\Anurag\Desktop\QCrux\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.0.1] C:\Users\Anurag\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:22:18-86
+13-->[androidx.core:core:1.0.1] C:\Users\Anurag\.gradle\caches\transforms-2\files-2.1\21dadf335ac8035a991bc5e1b16c722a\core-1.0.1\AndroidManifest.xml:22:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
 15-->C:\Users\Anurag\Desktop\QCrux\app\src\main\AndroidManifest.xml:7:9-43

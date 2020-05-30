@@ -10,8 +10,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="15dp"
-        android:elevation="10dp"
-        android:background="@color/white"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
@@ -21,7 +19,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="What are you\ninterested in ?"
-            android:textSize="20sp"
+            android:textSize="30sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             android:fontFamily="@font/open_sans_extrabold"
@@ -32,7 +30,7 @@
             android:layout_height="wrap_content"
             android:text="Select at least 3"
             android:layout_marginTop="5dp"
-            android:textSize="15sp"
+            android:textSize="20sp"
             android:fontFamily="@font/open_sans_light"
             app:layout_constraintTop_toBottomOf="@id/heading"
             app:layout_constraintStart_toStartOf="parent"/>
@@ -63,7 +61,7 @@
                 android:clipChildren="false"
                 android:clipToPadding="false"
                 android:columnCount="2"
-                android:paddingBottom="200dp"
+                android:paddingBottom="220dp"
                 android:columnOrderPreserved="false"
                 android:rowCount="4">
 
@@ -470,6 +468,7 @@
             android:textAllCaps="false"
             android:text="Show my feed"
             android:padding="10dp"
+            android:textSize="20sp"
             android:textColor="@color/white"
             android:background="@drawable/round_button"
             app:layout_constraintBottom_toBottomOf="parent"

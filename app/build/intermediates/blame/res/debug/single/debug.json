@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_interest1.xml.flat",
-        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\drawable\\image_interest1.xml"
-    },
-    {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_interest8.png.flat",
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxxhdpi\\interest8.png"
+    },
+    {
+        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_interest1.xml.flat",
+        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\drawable\\image_interest1.xml"
     },
     {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\font_open_sans_bold.xml.flat",
@@ -48,12 +48,12 @@
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-hdpi\\avatar_round.png"
     },
     {
-        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
-        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
-    },
-    {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_close.png.flat",
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-mdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
     },
     {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -80,12 +80,12 @@
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-mdpi\\avatar.png"
     },
     {
-        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_community.png.flat",
-        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xhdpi\\community.png"
-    },
-    {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_goal.png.flat",
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxhdpi\\goal.png"
+    },
+    {
+        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_community.png.flat",
+        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xhdpi\\community.png"
     },
     {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_lion.png.flat",
@@ -156,16 +156,16 @@
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xhdpi\\avatar_round.png"
     },
     {
-        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_image.png.flat",
-        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-hdpi\\image.png"
+        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_interest6.png.flat",
+        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxxhdpi\\interest6.png"
     },
     {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.png.flat",
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_interest6.png.flat",
-        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxxhdpi\\interest6.png"
+        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_image.png.flat",
+        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-hdpi\\image.png"
     },
     {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_interest3.png.flat",
@@ -240,12 +240,12 @@
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_team.png.flat",
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xhdpi\\team.png"
+    },
+    {
+        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_interest5.png.flat",
@@ -332,12 +332,12 @@
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-mdpi\\bg.png"
     },
     {
-        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gallery.png.flat",
-        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxhdpi\\gallery.png"
-    },
-    {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_interest5.png.flat",
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-hdpi\\interest5.png"
+    },
+    {
+        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_gallery.png.flat",
+        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxhdpi\\gallery.png"
     },
     {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plus.png.flat",
@@ -516,12 +516,12 @@
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\drawable\\tag_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_import_image_bg.xml.flat",
-        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\drawable\\import_image_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_dp.png.flat",
         "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\mipmap-xxhdpi\\dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\drawable_import_image_bg.xml.flat",
+        "source": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\src\\main\\res\\drawable\\import_image_bg.xml"
     },
     {
         "merged": "C:\\Users\\Anurag\\Desktop\\QCrux\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bg.png.flat",
